@@ -1,3 +1,2 @@
-# HoratiuMip
+# Legacy [ ⌡≤⌠ ]
 
-Hello there.
