@@ -27,7 +27,7 @@ When you need plots, you obviously make them from scratch, right?
 
 #### `< Geo-factory >`
 Destroying enemies and walking around is cool, but you need hitboxes for that. This is where this factory comes in.
-![geo-factory](https://github.com/user-attachments/assets/61c8354f-8e53-4888-9e44-838319f2ec50)
+![geo-factory](https://github.com/user-attachments/assets/6d2e53a3-6302-43eb-a101-648e62df6c96)
 
 #### `< Duck >`
 One may shoot as many ducks as there are stars in the universe, but one won't reach Jack Sparrow's level.
