@@ -13,13 +13,13 @@ OG games rebuilt in the console: pac-man, snake, minesweeper, dino-run; along so
 ### Iteration `_Alpha_` [ `α` ]
 The first iteration of the engine, a.k.a `GentleCore`. Achievement unlocked: GPU computing.
 
-#### `< Graphing capabilities >`
-When you need plots, you obviously make them from scratch, right?
-![graphing](https://github.com/user-attachments/assets/497e67d6-db18-4d11-b18c-22126911b9f6)
-
 #### `< Spac-shi >`
 Casual space shooter: they shoot, you shoot, but, obviously, you are OP, having energy orbs, shields, and the ability to repair your ship.
 ![spac-shi](https://github.com/user-attachments/assets/fc78e5f7-7834-484f-b7ef-4c47c3af3b51)
+
+#### `< Graphing capabilities >`
+When you need plots, you obviously make them from scratch, right?
+![graphing](https://github.com/user-attachments/assets/497e67d6-db18-4d11-b18c-22126911b9f6)
 
 #### `< Kill-the-player >`
 [ ■■■ ___REDACTED___ ■■■ ]
