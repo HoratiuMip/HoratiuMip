@@ -38,5 +38,13 @@ He asked if there was somebody playing rainbow six. Yes. There was.
 ![rainbow-six](https://github.com/user-attachments/assets/1607d896-2a27-4bd2-964d-cebb8021e18f)
 
 ### Iteration `_Bravo_` [ `ß` ]
-The second iteration of the engine, a.k.a `IXT`.
+The second iteration of the engine, a.k.a `IXT`, stepping up the level with these outstanding moves:
+
+> - CPU exception signals handler.
+
+> - `AVX` accelerated audio playback.
+
+> - `GLSL` shaders compilation and uplink in the graphics pipeline.
+
+> -  Generous geometry manipulation.
 
