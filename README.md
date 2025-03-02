@@ -5,7 +5,11 @@ Satellite. Satbe... or... satbe not. Are we some sort of... league of orbiters? 
 Earth images captured from the heavens, on demand, via the baddest immersive program and the sickest circuit rig (which I shall not short & burn). Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/IXT/Ruptures/warc).
 > ![warc-thumb-2](https://github.com/user-attachments/assets/8427430b-c346-4615-a8f0-297e7836227a)
 
-## IMM-CTRL [ `->O->[H]->` ]
+## BarraCUDA-CTRL [ `( )\/( )` ]
+The "How does it hold together?" makeshift joystick controller, with only one question yet to be answered: "Does it feel better or worse than it looks?". Try not to drop the chonky battery on your toes.
+> ![barracuda-artistic](https://github.com/user-attachments/assets/c51f8804-753c-4a4e-ba9f-f69cd099e9e9)
+
+## Feetback [ `->O->[H]->` ]
 N/A yet. System control real time fondle simulator?
 
 ## IXT Engine [ `╔≤≥╗` ]
