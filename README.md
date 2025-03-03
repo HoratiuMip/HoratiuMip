@@ -7,7 +7,7 @@ Earth images captured from the heavens, on demand, via the baddest immersive pro
 
 ## BarraCUDA-CTRL [ `( )\/( )` ]
 The "How does it hold together?" makeshift joystick controller, with only one question yet to be answered: "Does it feel better or worse than it looks?". Try not to drop the chonky battery on your toes.
-> ![barracuda-artistic](https://github.com/user-attachments/assets/c51f8804-753c-4a4e-ba9f-f69cd099e9e9)
+> ![barracuda-artistic](https://github.com/user-attachments/assets/164790a8-aada-4849-b753-5865a35af6aa)
 
 ## Feetback [ `->O->[H]->` ]
 N/A yet. System control real time fondle simulator?
