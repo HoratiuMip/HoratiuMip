@@ -64,5 +64,11 @@ The second iteration of the engine, a.k.a `IXT`. More in-depth use of the underl
 Satellite imaging with style. And more, under the hood.
 > ![warc-slick-shot-1-cut](https://github.com/user-attachments/assets/1b275c4f-b273-4a16-b831-33a2f3529641)
 
+#### `< BarraCUDA-CTRL Tester >`
+Tester program for the `BarraCUDA` controller.
+
+### Iteration `_Charlie_` [ `Ω` ]
+The third iteration of the angine, a.k.a `NLN`. Starting off with network driver following brushing over all the `IXT`'s components, this iteration must become the first fully stable version of the engine.
+
 
 
