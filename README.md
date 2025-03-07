@@ -2,7 +2,7 @@
  
 ## WARC [ `=Z< )) O*` ]
 Satellite. Satbe... or... satbe not. Are we some sort of... league of orbiters? It's right above me, isn't it? <br>
-Earth images captured from the heavens, on demand, via the baddest immersive program and the sickest circuit rig (which I shall not short & burn). Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/IXT/Ruptures/warc).
+Earth images captured from the heavens, on demand, via the baddest immersive program and the sickest circuit rig (which I shall not short & burn). Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN/Ruptures/warc).
 > ![warc-thumb-2](https://github.com/user-attachments/assets/8427430b-c346-4615-a8f0-297e7836227a)
 
 ## BarraCUDA-CTRL [ `( )\/( )` ]
@@ -13,7 +13,7 @@ The "How does it hold together?" makeshift joystick controller, with only one qu
 N/A yet. System control real time fondle simulator?
 
 ## IXT Engine [ `╔≤≥╗` ]
-Smooth operator of the computing system. Slick structures and procedures to mold any sort of software, just like the one above. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/IXT).
+Smooth operator of the computing system. Slick structures and procedures to mold any sort of software, just like the one above. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN).
 
 ## Discord Bot [ `»■«` ]
 N/A yet. Detailed [here](https://github.com/HoratiuMip/Ahri).
