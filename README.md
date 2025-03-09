@@ -7,16 +7,20 @@ Earth images captured from the heavens, on demand, via the baddest immersive pro
 
 ## BarraCUDA-CTRL [ `( )\/( )` ]
 The "How does it hold together?" makeshift joystick controller, with only one question yet to be answered: "Does it feel better or worse than it looks?". Try not to drop the chonky battery on your toes. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/Devices/BarraCUDA-CTRL).
-> ![barracuda-artistic](https://github.com/user-attachments/assets/164790a8-aada-4849-b753-5865a35af6aa)
+> ![barracuda-artistic-2](https://github.com/user-attachments/assets/70c06b52-5cce-49a4-8159-9010b21ce0b9)
 
-## Feetback [ `->O->[H]->` ]
-N/A yet. System control real time fondle simulator?
-
-## IXT Engine [ `╔≤≥╗` ]
+## IXT/NLN Engine [ `╔≤≥╗` ]
 Smooth operator of the computing system. Slick structures and procedures to mold any sort of software, just like the one above. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN).
+
+## BAR STREAM/BURST Protocol [ `Σ░=█` ]
+This is an ISO/OSI PRESENTATION LAYER ( STACK LAYER 6 ) protocol which assures stable and reliable interpretation of both sent and received byte streams. It is a volatile wrapper around user-defined send/receive methods, providing flexible choices regarding its operation procedures. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/blob/main/Devices/BarraCUDA-CTRL/BAR-PROTO.md).
+> ![bar-get-sample](https://github.com/user-attachments/assets/d36d5615-6ea5-43e3-b258-a1ebe2450491)
 
 ## Discord Bot [ `»■«` ]
 N/A yet. Detailed [here](https://github.com/HoratiuMip/Ahri).
+
+## Feetback [ `->O->[H]->` ]
+N/A yet. System control real time fondle simulator?
 
 # Legacy scrolls [ `⌡≤⌠` ]
 
