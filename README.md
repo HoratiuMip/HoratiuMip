@@ -7,7 +7,11 @@ Earth images captured from the heavens, on demand, via the baddest immersive pro
 
 ## BarraCUDA-CTRL [ `( )\/( )` ]
 The "How does it hold together?" makeshift joystick controller, with only one question yet to be answered: "Does it feel better or worse than it looks?". Try not to drop the chonky battery on your toes. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/Devices/BarraCUDA-CTRL).
-> ![barracuda-artistic-2](https://github.com/user-attachments/assets/70c06b52-5cce-49a4-8159-9010b21ce0b9)
+> ![barcud-blue](https://github.com/user-attachments/assets/79944fe7-e06e-40c5-908e-09bf0e0e2be0)
+
+Pull out the tester, it ain't got no gas in it.
+
+> ![barcud-tester](https://github.com/user-attachments/assets/ab7e2ab6-9482-4df0-834d-0571e7906810)
 
 ## IXT/NLN Engine [ `╔≤≥╗` ]
 Smooth operator of the computing system. Slick structures and procedures to mold any sort of software, just like the one above. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN).
