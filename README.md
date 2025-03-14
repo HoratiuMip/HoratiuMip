@@ -1,3 +1,5 @@
+<i><u><b>It is time to conclude your search. You have found the stand user. Proceed at your own risk.</b></u></i>
+
 # Master scrolls [ `⌡≤⌠` ]
  
 ## WARC [ `=Z< )) O*` ]
@@ -7,17 +9,19 @@ Earth images captured from the heavens, on demand, via the baddest immersive pro
 
 ## BarraCUDA-CTRL [ `( )\/( )` ]
 The "How does it hold together?" makeshift joystick controller, with only one question yet to be answered: "Does it feel better or worse than it looks?". Try not to drop the chonky battery on your toes. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/Devices/BarraCUDA-CTRL).
-> ![barcud-blue](https://github.com/user-attachments/assets/79944fe7-e06e-40c5-908e-09bf0e0e2be0)
+> ![barcud-art](https://github.com/user-attachments/assets/b2671f24-8335-4683-a659-bf164fe5941f)
 
-Pull out the tester, it ain't got no gas in it.
+Pull out the tester if ain't got no gas in it. It's not a bomb, I swear... or is it? Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN/Ruptures/BarraCUDA-CTRL-tester).
+><p align="center">
+>  <img src="https://github.com/user-attachments/assets/8480758c-47e2-4b20-8903-6dc645778c59" />
+></p>
 
-> ![barcud-tester](https://github.com/user-attachments/assets/ab7e2ab6-9482-4df0-834d-0571e7906810)
-
-## IXT/NLN Engine [ `╔≤≥╗` ]
-Smooth operator of the computing system. Slick structures and procedures to mold any sort of software, just like the one above. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN).
+## IXT-NLN Engine [ `╔≤≥╗` ]
+The everything-in-one penknife of software development, exposing toolsets and ready-to-go frameworks for any domains one can imagine: graphics, audio, numeric mathematics, networking, logging, image processing, memory manipulation and management, drivers, blah, blah-blah, proper name, place name, backstory stuff. It is so pretty, I like it, but I'm angry with it for some reason. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN).
+> ![ixt-nln-logo](https://github.com/user-attachments/assets/54e2cdbc-55ce-48ea-91d3-df27cf414faf)
 
 ## BAR STREAM/BURST Protocol [ `Σ░=█` ]
-This is an ISO/OSI PRESENTATION LAYER ( STACK LAYER 6 ) protocol which assures stable and reliable interpretation of both sent and received byte streams. It is a volatile wrapper around user-defined send/receive methods, providing flexible choices regarding its operation procedures. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/blob/main/Devices/BarraCUDA-CTRL/BAR-PROTO.md).
+This is an ISO/OSI presentation layer protocol which assures stable and reliable interpretation of both sent and received byte streams. It is a volatile wrapper around user-defined send/receive methods, providing flexible choices regarding its operation procedures. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/blob/main/Devices/BarraCUDA-CTRL/BAR-PROTO.md).
 > ![bar-get-sample](https://github.com/user-attachments/assets/d36d5615-6ea5-43e3-b258-a1ebe2450491)
 
 ## Discord Bot [ `»■«` ]
