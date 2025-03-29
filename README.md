@@ -4,25 +4,25 @@
  
 ## WARC [ `=Z< )) O*` ]
 Satellite. Satbe... or... satbe not. Are we some sort of... league of orbiters? It's right above me, isn't it? <br>
-Earth images captured from the heavens, on demand, via the baddest immersive program and the sickest circuit rig (which I shall not short & burn). Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN/Ruptures/warc).
+Earth images captured from the heavens, on demand, via the baddest immersive program and the sickest circuit rig (which I shall not short & burn). Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/IXN/Ruptures/warc).
 > ![warc-thumb-2](https://github.com/user-attachments/assets/8427430b-c346-4615-a8f0-297e7836227a)
 
 ## BarraCUDA-CTRL [ `( )\/( )` ]
 The "How does it hold together?" makeshift joystick controller, with only one question yet to be answered: "Does it feel better or worse than it looks?". Try not to drop the chonky battery on your toes. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/Devices/BarraCUDA-CTRL).
 > ![barcud-art](https://github.com/user-attachments/assets/b2671f24-8335-4683-a659-bf164fe5941f)
 
-Pull out the tester if ain't got no gas in it. It's not a bomb, I swear... or is it? Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN/Ruptures/BarraCUDA-CTRL-tester).
+Pull out the tester if ain't got no gas in it. It's not a bomb, I swear... or is it? Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/IXN/Ruptures/BarraCUDA-CTRL-tester).
 ><p align="center">
 >  <img src="https://github.com/user-attachments/assets/8480758c-47e2-4b20-8903-6dc645778c59" />
 ></p>
 
 ## IXT-NLN Engine [ `╔≤≥╗` ]
-The everything-in-one penknife of software development, exposing toolsets and ready-to-go frameworks for any domains one can imagine: graphics, audio, numeric mathematics, networking, logging, image processing, memory manipulation and management, drivers, blah, blah-blah, proper name, place name, backstory stuff. It is so pretty, I like it, but I'm angry with it for some reason. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/NLN).
+The everything-in-one penknife of software development, exposing toolsets and ready-to-go frameworks for any domains one can imagine: graphics, audio, numeric mathematics, networking, logging, image processing, memory manipulation and management, drivers, blah, blah-blah, proper name, place name, backstory stuff. It is so pretty, I like it, but I'm angry with it for some reason. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/IXN).
 > ![ixt-nln-logo](https://github.com/user-attachments/assets/54e2cdbc-55ce-48ea-91d3-df27cf414faf)
 
-## BAR STREAM/BURST Protocol [ `Σ░=█` ]
-This is an ISO/OSI presentation layer protocol which assures stable and reliable interpretation of both sent and received byte streams. It is a volatile wrapper around user-defined send/receive methods, providing flexible choices regarding its operation procedures. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/blob/main/Devices/BarraCUDA-CTRL/BAR-PROTO.md).
-> ![bar-get-sample](https://github.com/user-attachments/assets/d36d5615-6ea5-43e3-b258-a1ebe2450491)
+## Warp Joint Protocol [ `Σ░=█` ]
+An `ISO/OSI PRESENTATION LAYER ( STACK LAYER 6 )` protocol which assures stable and reliable interpretation of both sent and received byte streams. It is a volatile wrapper around user-defined send/receive methods, providing flexible choices regarding its operation modes and procedures. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/blob/main/WJP/README.md).
+> ![wjp_sketch](https://github.com/user-attachments/assets/7152f6c2-acc4-46b0-8cd5-e34da4cd6810)
 
 ## Discord Bot [ `»■«` ]
 N/A yet. Detailed [here](https://github.com/HoratiuMip/Ahri).
@@ -80,7 +80,7 @@ Satellite imaging with style. And more, under the hood.
 Tester program for the `BarraCUDA` controller.
 
 ### Iteration `_Charlie_` [ `Ω` ]
-The third iteration of the angine, a.k.a `NLN`. Starting off with network driver following brushing over all the `IXT`'s components, this iteration must become the first fully stable version of the engine.
+The third iteration of the angine, a.k.a `IXT-NLN`. Starting off with network driver following brushing over all the `IXT`'s components, this iteration must become the first fully stable version of the engine.
 
 
 
