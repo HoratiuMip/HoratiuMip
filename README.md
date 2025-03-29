@@ -22,7 +22,7 @@ The everything-in-one penknife of software development, exposing toolsets and re
 
 ## Warp Joint Protocol [ `Σ░=█` ]
 An `ISO/OSI PRESENTATION LAYER ( STACK LAYER 6 )` protocol which assures stable and reliable interpretation of both sent and received byte streams. It is a volatile wrapper around user-defined send/receive methods, providing flexible choices regarding its operation modes and procedures. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/blob/main/WJP/README.md).
-> ![wjp_sketch](https://github.com/user-attachments/assets/7152f6c2-acc4-46b0-8cd5-e34da4cd6810)
+> ![wjp_sketch](https://github.com/user-attachments/assets/e39b30df-bf4b-41b6-9cf4-4e9d6e959717)
 
 ## Discord Bot [ `»■«` ]
 N/A yet. Detailed [here](https://github.com/HoratiuMip/Ahri).
