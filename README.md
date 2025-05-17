@@ -8,7 +8,7 @@ Earth images captured from the heavens, on demand, via the baddest immersive pro
 > ![warc-thumb-2](https://github.com/user-attachments/assets/8427430b-c346-4615-a8f0-297e7836227a)
 
 ## BarrunCUDA [ `( )\/( )` ]
-The "How does it hold together?" makeshift joystick controller, with only one question yet to be answered: "Does it feel better or worse than it looks?". Try not to drop the chonky battery on your toes. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/Devices/BarrunCUDA).
+The "How does it hold together?" makeshift joystick controller, with only one question yet to be answered: "Does it feel better or worse than it looks?". Try not to drop the chonky battery on your toes. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/Devices/BarrunCUDA). Quick demo [here](https://www.youtube.com/shorts/fO5yGtDo8sk).
 > ![barruncuda](https://github.com/user-attachments/assets/79515772-ae1a-42ba-9aaa-e2ba130bdc1f)
 
 Pull out the tester if ain't got no gas in it. It's not a bomb, I swear... or is it? Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/IXN/Ruptures/BarrunCUDA-tester).
