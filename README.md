@@ -18,7 +18,7 @@ Pull out the tester if ain't got no gas in it. It's not a bomb, I swear... or is
 
 ## Warp Joint Protocol [ `Σ░=█` ]
 An `ISO/OSI PRESENTATION LAYER ( STACK LAYER 6 )` protocol which assures stable and reliable interpretation of both sent and received byte streams. It is a volatile wrapper around user-defined send/receive methods, providing flexible choices regarding its operation modes and procedures. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/blob/main/WJP/README.md).
-> ![wjp_sketch](https://github.com/user-attachments/assets/e39b30df-bf4b-41b6-9cf4-4e9d6e959717)
+> ![WJP](https://github.com/user-attachments/assets/00c05698-dba6-40ca-857e-313afe16b768)
 
 ## IXT-NLN Engine [ `╔≤≥╗` ]
 The everything-in-one penknife of software development, exposing toolsets and ready-to-go frameworks for any domains one can imagine: graphics, audio, numeric mathematics, networking, logging, image processing, memory manipulation and management, drivers, blah, blah-blah, proper name, place name, backstory stuff. It is so pretty, I like it, but I'm angry with it for some reason. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/IXN).
