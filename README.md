@@ -33,9 +33,9 @@ O mașină bună. Te duce dintr-una, în alta. Rage-filled, rechargable, modded 
 The everything-in-one penknife of software development, exposing toolsets and ready-to-go frameworks for any domains one can imagine: graphics, audio, numeric mathematics, networking, logging, image processing, memory manipulation and management, drivers, blah, blah-blah, proper name, place name, backstory stuff. It is so pretty, I like it, but I'm angry with it for some reason. Detailed [here](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/IXN).
 > ![ixt-nln-logo](https://github.com/user-attachments/assets/54e2cdbc-55ce-48ea-91d3-df27cf414faf)
 
-## VSK [ `■■■■` ]
+## AUTO-A113 [ `■■■■` ]
 Every single thing from above combined in one almighty tool, is that even possible, perhaps, only given that ⌠⌡■²ⁿ○■[ __REDACTED__ ].
-> <img width="1194" height="252" alt="image" src="https://github.com/user-attachments/assets/07fa7485-5d43-44bc-a82e-da60be9e0943" />
+> <img width="1308" height="349" alt="image" src="https://github.com/user-attachments/assets/88bab4aa-f3f8-4482-ac40-7ebfd78570f6" />
 
 ## Discord Bot [ `»■«` ]
 For the boyz to have fun in the voice chat. Detailed [here](https://github.com/HoratiuMip/Ahri).
