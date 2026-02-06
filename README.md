@@ -58,6 +58,13 @@ Retrofit of a `Tehnics SA-EX400` audio amplifier.
 
 > Legecy [repo](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/Devices/DWMQ).
 
+## COMMod [ `]-><-[` ]
+Gata tupeu de poet sal.
+
+> YouTube [tutorial](https://www.youtube.com/watch?v=1l_EoujPB7Y).
+> Master [repo](https://github.com/HoratiuMip/COMMod).
+> Legacy [repo](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/AUTO-A113/Ruptures/COMMod).
+
 ## AUTO-A113 Engine [ `╔≤≥╗` ]
 The everything-in-one penknife of software development, exposing toolsets and ready-to-go frameworks for any domains one can imagine: graphics, audio, numeric mathematics, networking, logging, image processing, memory manipulation and management, drivers, blah, blah-blah, proper name, place name, backstory stuff. It is so pretty, I like it, but I'm angry with it for some reason.
 > Master [repo](https://github.com/HoratiuMip/auto-a113).
