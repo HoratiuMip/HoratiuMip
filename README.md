@@ -27,6 +27,14 @@ Bake it to the end, eh?
 > YouTube [demo](https://www.youtube.com/shorts/fO5yGtDo8sk), [another demo](https://www.youtube.com/watch?v=1ag8byh_8zw).
 > Legacy [repo](https://github.com/HoratiuMip/Ad-astra.Made.Not-said/tree/main/Devices/BarrunCUDA).
 
+## Poseidon [ `~~,*` ]
+Remote garden irrigation system providing real-time control and history statistics via Thingsboard.
+><p align="center">
+> <img src="https://github.com/user-attachments/assets/d18d9739-ff70-4a73-9fc7-167b32e9c769" width=90%>
+></p>
+
+> Legacy [repo](https://github.com/HoratiuMip/OCAv2/tree/master/cubles).
+
 ## Warp Joint Protocol [ `Σ░=█` ]
 An `ISO/OSI Presentation layer` protocol which assures stable and reliable interpretation of both sent and received byte streams. It is a volatile wrapper around user-defined send/receive methods, providing flexible choices regarding its operation modes and procedures.
 ><p align="center">
